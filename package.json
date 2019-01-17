@@ -1,6 +1,6 @@
 {
   "name": "rollup-plugin-walt",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "dist/rollup-plugin-walt.cjs.js",
   "module": "dist/rollup-plugin-walt.es.js",
   "jsnext:main": "dist/rollup-plugin-walt.es.js",
@@ -38,6 +38,7 @@
     "url": "https://github.com/cbbfcd/rollup-plugin-walt"
   },
   "author": "cbbfcd <2890636389@qq.com>",
+  "keywords": ["webassembly", "rollup", "plugin", "walt"],
   "dependencies": {
     "rollup-pluginutils": "^2.3.1"
   },
