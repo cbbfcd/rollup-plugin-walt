@@ -2,6 +2,12 @@
 
 [inspired by this 👉 webpack-walt-loader](https://github.com/ballercat/walt/blob/master/packages/walt-loader)
 
+This is a plugin for use with walt.
+
+## about walt 👇
+
+> ⚡️ Walt is a JavaScript-like syntax for WebAssembly text format ⚡️ https://ballercat.github.io/walt/
+
 ## Installation
 
 ```bash
