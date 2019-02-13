@@ -7,7 +7,8 @@ export default {
 	input: 'src/index.js',
 	output: [
 		{ file: pkg.main, format: 'cjs', sourcemap: true },
-		{ file: pkg.module, format: 'es', sourcemap: true }
+		{ file: pkg.module, format: 'es', sourcemap: true },
+		{ file: pkg.browser, format: 'umd', name: 'rollup-plugin-walt.umd.js', sourcemap: true }
 	],
 	plugins: [buble()],
 	external
