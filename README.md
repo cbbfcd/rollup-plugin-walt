@@ -13,6 +13,7 @@ This is a plugin for use with walt.
 ```bash
 npm install --save-dev rollup-plugin-walt
 ```
+⚠️ should add walt-compiler too!!
 
 ## Usage
 

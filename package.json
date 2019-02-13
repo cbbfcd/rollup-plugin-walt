@@ -1,6 +1,6 @@
 {
   "name": "rollup-plugin-walt",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "main": "dist/rollup-plugin-walt.cjs.js",
   "module": "dist/rollup-plugin-walt.es.js",
   "browser": "dist/rollup-plugin-walt.umd.js",
