@@ -1,5 +1,7 @@
 # rollup-plugin-walt
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/cbbfcd/rollup-plugin-walt.svg)](https://greenkeeper.io/)
+
 [inspired by this 👉 webpack-walt-loader](https://github.com/ballercat/walt/blob/master/packages/walt-loader)
 
 This is a plugin for use with walt.
